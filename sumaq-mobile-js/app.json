@@ -1,0 +1,28 @@
+
+{
+  "expo": {
+    "name": "SUMAQ ÑAN",
+    "slug": "sumaq-mobile-js",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F5EBD8"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F5EBD8",
+        "foregroundImage": "./assets/images/logo.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/logo.png"
+    }
+  }
+}
